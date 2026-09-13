@@ -1,2 +1,3 @@
-# .github
-Readme for the organisation
+# Saga-Soft Global Repo Config
+
+Shared files and README for the organisation.
